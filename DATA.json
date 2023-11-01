@@ -1,0 +1,612 @@
+{
+  "EPIPEDA": [
+    "A",
+    "B",
+    "Γ"
+  ],
+  "TMHMATA": [
+    1,
+    2
+  ],
+  "ANTIKEIMENA": [
+    {
+      "mathima": "Γλωσσική Διδασκαλία",
+      "eidikotita": "Φιλόλογος"
+    },
+    {
+      "mathima": "Νεοελληνική Λογοτεχνία",
+      "eidikotita": "Φιλόλογος"
+    },
+    {
+      "mathima": "Αρχαία Ελληνική Γλώσσα",
+      "eidikotita": "Φιλόλογος"
+    },
+    {
+      "mathima": "Αρχαία Ελληνικά Κείμενα από Μετάφραση",
+      "eidikotita": "Φιλόλογος"
+    },
+    {
+      "mathima": "Μαθηματικά",
+      "eidikotita": "Μαθηματικός"
+    },
+    {
+      "mathima": "Φυσική",
+      "eidikotita": "Φυσικός"
+    },
+    {
+      "mathima": "Χημεία",
+      "eidikotita": "Χημικός"
+    },
+    {
+      "mathima": "Βιολογία",
+      "eidikotita": "Βιολόγος"
+    },
+    {
+      "mathima": "Γεωγραφία",
+      "eidikotita": "Γεωγράφος"
+    },
+    {
+      "mathima": "Ιστορία",
+      "eidikotita": "Φιλόλογος"
+    },
+    {
+      "mathima": "Θρησκευτικά",
+      "eidikotita": "Θρησκευτικός"
+    },
+    {
+      "mathima": "Αγγλικά",
+      "eidikotita": "Φιλόλογος Αγγλικών"
+    },
+    {
+      "mathima": "Κοινωνική και Πολιτική Αγωγή",
+      "eidikotita": "Οικονομολόγος"
+    },
+    {
+      "mathima": "Φυσική Αγωγή",
+      "eidikotita": "Γυμναστής"
+    },
+    {
+      "mathima": "Τεχνολογία",
+      "eidikotita": "Πληροφορικάριος"
+    },
+    {
+      "mathima": "Πληροφορική",
+      "eidikotita": "Πληροφορικάριος"
+    },
+    {
+      "mathima": "Μουσική",
+      "eidikotita": "Μουσικός"
+    },
+    {
+      "mathima": "Καλλιτεχνικά",
+      "eidikotita": "Καλλιτεχνικών"
+    }
+  ],
+  "KYKLOS_MATHIMATWN": [
+    {
+      "epipedo": "A",
+      "antikeimeno": "Γλωσσική Διδασκαλία",
+      "wres": 3
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Νεοελληνική Λογοτεχνία",
+      "wres": 2
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Αρχαία Ελληνική Γλώσσα",
+      "wres": 2
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Αρχαία Ελληνικά Κείμενα από Μετάφραση",
+      "wres": 2
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Μαθηματικά",
+      "wres": 4
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Φυσική",
+      "wres": 1
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Χημεία",
+      "wres": 1
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Βιολογία",
+      "wres": 1
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Γεωγραφία",
+      "wres": 1
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Ιστορία",
+      "wres": 2
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Θρησκευτικά",
+      "wres": 2
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Αγγλικά",
+      "wres": 2
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Κοινωνική και Πολιτική Αγωγή",
+      "wres": 1
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Φυσική Αγωγή",
+      "wres": 2
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Τεχνολογία",
+      "wres": 1
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Πληροφορική",
+      "wres": 2
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Μουσική",
+      "wres": 1
+    },
+    {
+      "epipedo": "A",
+      "antikeimeno": "Καλλιτεχνικά",
+      "wres": 1
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Γλωσσική Διδασκαλία",
+      "wres": 2
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Νεοελληνική Λογοτεχνία",
+      "wres": 2
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Αρχαία Ελληνική Γλώσσα",
+      "wres": 2
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Αρχαία Ελληνικά Κείμενα από Μετάφραση",
+      "wres": 2
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Μαθηματικά",
+      "wres": 4
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Φυσική",
+      "wres": 2
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Χημεία",
+      "wres": 1
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Βιολογία",
+      "wres": 1
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Γεωγραφία",
+      "wres": 2
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Ιστορία",
+      "wres": 2
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Θρησκευτικά",
+      "wres": 2
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Αγγλικά",
+      "wres": 2
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Κοινωνική και Πολιτική Αγωγή",
+      "wres": 1
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Φυσική Αγωγή",
+      "wres": 2
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Τεχνολογία",
+      "wres": 1
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Πληροφορική",
+      "wres": 1
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Μουσική",
+      "wres": 1
+    },
+    {
+      "epipedo": "B",
+      "antikeimeno": "Καλλιτεχνικά",
+      "wres": 1
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Γλωσσική Διδασκαλία",
+      "wres": 2
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Νεοελληνική Λογοτεχνία",
+      "wres": 2
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Αρχαία Ελληνική Γλώσσα",
+      "wres": 2
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Αρχαία Ελληνικά Κείμενα από Μετάφραση",
+      "wres": 2
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Μαθηματικά",
+      "wres": 4
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Φυσική",
+      "wres": 2
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Χημεία",
+      "wres": 1
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Βιολογία",
+      "wres": 1
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Γεωγραφία",
+      "wres": 1
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Ιστορία",
+      "wres": 2
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Θρησκευτικά",
+      "wres": 2
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Αγγλικά",
+      "wres": 2
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Κοινωνική και Πολιτική Αγωγή",
+      "wres": 3
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Φυσική Αγωγή",
+      "wres": 2
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Τεχνολογία",
+      "wres": 1
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Πληροφορική",
+      "wres": 1
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Μουσική",
+      "wres": 1
+    },
+    {
+      "epipedo": "Γ",
+      "antikeimeno": "Καλλιτεχνικά",
+      "wres": 1
+    }
+  ],
+  "KATHIGITES": [
+    {
+      "onoma": "Γιάννης μαθ",
+      "wres": 12,
+      "eidikotita": "Μαθηματικός"
+    },
+    {
+      "onoma": "Γιώργος μαθ",
+      "wres": 12,
+      "eidikotita": "Μαθηματικός"
+    },
+    {
+      "onoma": "Μαρία φιλ",
+      "wres": 16,
+      "eidikotita": "Φιλόλογος"
+    },
+    {
+      "onoma": "Γεωργία φιλ",
+      "wres": 15,
+      "eidikotita": "Φιλόλογος"
+    },
+    {
+      "onoma": "Μάριος φιλ",
+      "wres": 20,
+      "eidikotita": "Φιλόλογος"
+    },
+    {
+      "onoma": "Αθανασία φιλ",
+      "wres": 15,
+      "eidikotita": "Φιλόλογος"
+    },
+    {
+      "onoma": "Παναγιώτης φ-χ",
+      "wres": 15,
+      "eidikotita": [
+        "Φυσικός",
+        "Χημικός"
+      ]
+    },
+    {
+      "onoma": "Αθηνά φ-χ",
+      "wres": 10,
+      "eidikotita": [
+        "Φυσικός",
+        "Χημικός"
+      ]
+    },
+    {
+      "onoma": "Αχιλλέας βιολ",
+      "wres": 15,
+      "eidikotita": "Βιολόγος"
+    },
+    {
+      "onoma": "Δέσποινα οικ",
+      "wres": 15,
+      "eidikotita": "Οικονομολόγος"
+    },
+    {
+      "onoma": "Βαγγέλης γεω",
+      "wres": 15,
+      "eidikotita": "Γεωγράφος"
+    },
+    {
+      "onoma": "Ελένη θρησ",
+      "wres": 15,
+      "eidikotita": "Θρησκευτικός"
+    },
+    {
+      "onoma": "Χάρης θρησ",
+      "wres": 15,
+      "eidikotita": "Θρησκευτικός"
+    },
+    {
+      "onoma": "Χριστίνα αγγ",
+      "wres": 15,
+      "eidikotita": "Φιλόλογος Αγγλικών"
+    },
+    {
+      "onoma": "Νατάσα αγγ",
+      "wres": 15,
+      "eidikotita": "Φιλόλογος Αγγλικών"
+    },
+    {
+      "onoma": "Αλέξης γυμ",
+      "wres": 15,
+      "eidikotita": "Γυμναστής"
+    },
+    {
+      "onoma": "Αναστασία γυμ",
+      "wres": 15,
+      "eidikotita": "Γυμναστής"
+    },
+    {
+      "onoma": "Βασίλης τπε",
+      "wres": 15,
+      "eidikotita": "Πληροφορικάριος"
+    },
+    {
+      "onoma": "Αλεξάνδρα τπε",
+      "wres": 15,
+      "eidikotita": "Πληροφορικάριος"
+    },
+    {
+      "onoma": "Ελεονώρα μουσ",
+      "wres": 15,
+      "eidikotita": "Μουσικός"
+    },
+    {
+      "onoma": "Χρήστος καλ",
+      "wres": 15,
+      "eidikotita": "Καλλιτεχνικών"
+    }
+  ],
+  "Xronikes_Periodoi": [
+    {
+      "Mera-Wres": "Δευτέρα : 08:15-09:00",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Δευτέρα : 09:05-09:50",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Δευτέρα : 10:00-10:45",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Δευτέρα : 10:55-11:40",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Δευτέρα : 11:50-12:35",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Δευτέρα : 12:45-13:25",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Δευτέρα : 13:30-14:10",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Τρίτη : 08:15-09:00",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Τρίτη : 09:05-09:50",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Τρίτη : 10:00-10:45",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Τρίτη : 10:55-11:40",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Τρίτη : 11:50-12:35",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Τρίτη : 12:45-13:25",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Τρίτη : 13:30-14:10",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Τετάρτη : 08:15-09:00",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Τετάρτη : 09:05-09:50",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Τετάρτη : 10:00-10:45",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Τετάρτη : 10:55-11:40",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Τετάρτη : 11:50-12:35",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Τετάρτη : 12:45-13:25",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Τετάρτη : 13:30-14:10",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Πέμπτη : 08:15-09:00",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Πέμπτη : 09:05-09:50",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Πέμπτη : 10:00-10:45",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Πέμπτη : 10:55-11:40",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Πέμπτη : 11:50-12:35",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Πέμπτη : 12:45-13:25",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Πέμπτη : 13:30-14:10",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Παρασκευή : 08:15-09:00",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Παρασκευή : 09:05-09:50",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Παρασκευή : 10:00-10:45",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Παρασκευή : 10:55-11:40",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Παρασκευή : 11:50-12:35",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Παρασκευή : 12:45-13:25",
+      "Diarkeia": 1
+    },
+    {
+      "Mera-Wres": "Παρασκευή : 13:30-14:10",
+      "Diarkeia": 1
+    }
+  ]
+}
